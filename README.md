@@ -10,7 +10,7 @@ Add script tag to your HTML page `<script src="js/svgx.js">`
 
 Initalize `SVGX` via 
 ```javascript
- let svgx = new Svgx();
+ const svgx = new Svgx();
  svgx.init() 
 ```
 In html
